@@ -1,0 +1,1 @@
+const Telepon = require('../models/telepon.model')
